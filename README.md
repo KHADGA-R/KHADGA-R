@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @KHADGA-R
-- 👀 I’m interested in Python Data Science, Machine Learning and DS
-- 🌱 I’m currently learning Java, Python Data Science and Machine Learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a passionate and results-driven Java Developer with hands-on experience building scalable enterprise applications using Java, Spring Boot, RESTful APIs, and cloud-native DevOps practices. I currently work at Infosys as a Technology Analyst, where I contribute to digital transformation projects for Nike Inc., focusing on robust backend development, CI/CD, and automated testing.
 
-<!---
-KHADGA-R/KHADGA-R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
