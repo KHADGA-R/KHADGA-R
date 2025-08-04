@@ -6,6 +6,10 @@ I'm a passionate and results-driven Java Developer with hands-on experience buil
 
 🌠 Rising Star Award – Infosys FY23 Q3
 
+☁️ AWS Certified Solution Architect - Associate (2025–2028)
+
 ☁️ AWS Certified Cloud Practitioner (2025–2028)
+
+☁️ Certified in Cybersecurity(CC) (2025–2028)
 
 🎓 AI Strategy Certificate – Cornell University
